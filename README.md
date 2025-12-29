@@ -21,7 +21,7 @@ The objective is to demonstrate practical SQL skills applied to a real-world ret
 
 ## 🛠️ Tools Used
 - MySQL
-- SQL (DDL, DML, Aggregations, Window Functions)
+- SQL (DDL, DML, Aggregations)
 
 ## 📈 Outcome
 The analysis provides actionable retail insights that can support data-driven decisions in inventory planning, customer targeting, and operational strategy.
